@@ -1,4 +1,4 @@
 # New project
 
 This project was created  from local system.
-created by Priyanshu kumar
+Created by Priyanshu kumar
